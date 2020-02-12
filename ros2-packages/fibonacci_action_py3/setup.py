@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'fib_server = fibonacci_action_py3.fib_server:main'
-        ],
+            'fib_server = fibonacci_action_py3.fib_server:main',
+            'fib_client = fibonacci_action_py3.fib_client:main'
+            ],
     },
 )
