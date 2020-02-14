@@ -3,9 +3,9 @@
 <package format="3">
   <name>fibonacci_action_cpp</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="ken.saito.0813@gmail.com">kensuke</maintainer>
-  <license>TODO: License declaration</license>
+  <description>learning the basics of the action method ROS2 using C++</description>
+	<maintainer email="ken.saito.0813@gmail.com">Kensuke Saito</maintainer>
+  <license>MIT License</license>
 
 	<buildtool_depend>ament_cmake</buildtool_depend>
 

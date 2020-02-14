@@ -18,3 +18,4 @@
 			- fibonacci_action_cpp
 		- modified:
 			- README.md
+			- __package.xml__ file in each package
