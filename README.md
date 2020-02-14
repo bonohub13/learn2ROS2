@@ -12,3 +12,9 @@
 			- fib_client.py in fibonacci\_action\_py3
 		- modified:
 			- README.md
+- February 14th, 2020
+	- added C++ version of server and client of the "fibonacci\_action\_py3" package
+		- added:
+			- fibonacci_action_cpp
+		- modified:
+			- README.md
